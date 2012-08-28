@@ -445,19 +445,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2456164.313098866
+2456168.635634757
   9
 $TDUCREATE
  40
-2456164.479765533
+2456168.802301424
   9
 $TDUPDATE
  40
-2456164.313123276
+2456168.635659502
   9
 $TDUUPDATE
  40
-2456164.479789942
+2456168.802326169
   9
 $TDINDWG
  40
@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-5D
+EB
   9
 $SURFTAB1
  70
@@ -885,7 +885,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{806822E8-B343-4199-924F-C0F5BB3CC79F}
+{91979F23-18A0-480A-85DF-3D5699B624B5}
   9
 $VERSIONGUID
   2
@@ -1761,9 +1761,1855 @@ SECTION
   2
 ENTITIES
   0
-LINE
+CIRCLE
   5
 44
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+45
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+46
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+47
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+48
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+49
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+4A
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+4B
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+4C
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+4D
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+4E
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+4F
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+50
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+51
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+52
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+53
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+54
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+55
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+56
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+57
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+58
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+59
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+5A
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+5B
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+5C
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+5D
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+5E
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+5F
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+60
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+61
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+62
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+63
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+64
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+65
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+66
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+67
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+68
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+69
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+6A
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+6B
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+6C
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+6D
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+6E
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+6F
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+70
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+71
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+72
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+73
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+74
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+75
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+76
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+77
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+78
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+79
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+7A
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+7B
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+7C
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+7D
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+7E
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+7F
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+80
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+81
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+82
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+83
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+84
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+85
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+25.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+86
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+15.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+87
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+5.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+88
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-5.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+89
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-15.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+8A
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-25.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+LINE
+  5
+8B
 330
 1F
 100
@@ -1793,7 +3639,7 @@ AcDbLine
   0
 LINE
   5
-45
+8C
 330
 1F
 100
@@ -1823,7 +3669,7 @@ AcDbLine
   0
 ARC
   5
-46
+8D
 330
 1F
 100
@@ -1855,7 +3701,7 @@ AcDbArc
   0
 ARC
   5
-47
+8E
 330
 1F
 100
@@ -1887,7 +3733,7 @@ AcDbArc
   0
 LINE
   5
-48
+8F
 330
 1F
 100
@@ -1917,7 +3763,7 @@ AcDbLine
   0
 ARC
   5
-49
+90
 330
 1F
 100
@@ -1949,7 +3795,7 @@ AcDbArc
   0
 ARC
   5
-4A
+91
 330
 1F
 100
@@ -1981,7 +3827,7 @@ AcDbArc
   0
 LINE
   5
-4B
+92
 330
 1F
 100
@@ -2011,7 +3857,7 @@ AcDbLine
   0
 LINE
   5
-4C
+93
 330
 1F
 100
@@ -2041,7 +3887,7 @@ AcDbLine
   0
 LINE
   5
-4D
+94
 330
 1F
 100
@@ -2071,7 +3917,7 @@ AcDbLine
   0
 LINE
   5
-4E
+95
 330
 1F
 100
@@ -2101,7 +3947,7 @@ AcDbLine
   0
 LINE
   5
-4F
+96
 330
 1F
 100
@@ -2131,7 +3977,7 @@ AcDbLine
   0
 LINE
   5
-50
+97
 330
 1F
 100
@@ -2161,7 +4007,7 @@ AcDbLine
   0
 LINE
   5
-51
+98
 330
 1F
 100
@@ -2191,7 +4037,7 @@ AcDbLine
   0
 ARC
   5
-52
+99
 330
 1F
 100
@@ -2223,7 +4069,7 @@ AcDbArc
   0
 ARC
   5
-53
+9A
 330
 1F
 100
@@ -2255,7 +4101,7 @@ AcDbArc
   0
 LINE
   5
-54
+9B
 330
 1F
 100
@@ -2285,7 +4131,7 @@ AcDbLine
   0
 ARC
   5
-55
+9C
 330
 1F
 100
@@ -2317,7 +4163,7 @@ AcDbArc
   0
 ARC
   5
-56
+9D
 330
 1F
 100
@@ -2349,7 +4195,7 @@ AcDbArc
   0
 LINE
   5
-57
+9E
 330
 1F
 100
@@ -2379,7 +4225,7 @@ AcDbLine
   0
 LINE
   5
-58
+9F
 330
 1F
 100
@@ -2409,7 +4255,7 @@ AcDbLine
   0
 LINE
   5
-59
+A0
 330
 1F
 100
@@ -2439,7 +4285,7 @@ AcDbLine
   0
 LINE
   5
-5A
+A1
 330
 1F
 100
@@ -2469,7 +4315,7 @@ AcDbLine
   0
 LINE
   5
-5B
+A2
 330
 1F
 100
@@ -2499,7 +4345,7 @@ AcDbLine
   0
 CIRCLE
   5
-5C
+A3
 330
 1F
 100
@@ -2515,9 +4361,1855 @@ Continuous
 100
 AcDbCircle
  10
--25.0
+-30.0
  20
 25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+A4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+A5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+A6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+A7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+A8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+A9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+AA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+AB
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+AC
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+AD
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+AE
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+AF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+B0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+B1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+B2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+B3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+B4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+B5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+B6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+B7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+B8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+B9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+BA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+BB
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+BC
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+BD
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+BE
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+BF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+C0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+C1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+C2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+C3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+C4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+C5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+C6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+C7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+0.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+C8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+C9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+CA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+CB
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+CC
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+CD
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+CE
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+CF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+D0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+D1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+D2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+D3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+-10.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+D4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+D5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+D6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+D7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+D8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+D9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+DA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+DB
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.450000000000001
+  0
+CIRCLE
+  5
+DC
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+DD
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+DE
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+DF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+-20.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+E0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-20.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+E1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-10.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+E2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+0.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.45
+  0
+CIRCLE
+  5
+E3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+10.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+E4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+20.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+E5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+30.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+E6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+15.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+E7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+E8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+-5.0
+ 30
+0.0
+ 40
+1.449999999999999
+  0
+CIRCLE
+  5
+E9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+-15.0
+ 30
+0.0
+ 40
+1.450000000000003
+  0
+CIRCLE
+  5
+EA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-30.0
+ 20
+-25.0
  30
 0.0
  40
